@@ -1,2 +1,2 @@
-# JaciFrancineWebSites
-Jaci Francines Website
+# JaciFrancine
+Jaci Francine's Website
